@@ -8,8 +8,8 @@ This page describes my research proposal and my interview presentation.
 4. Create a presentation.
 
 ## Assignment File
-1. [research_proposal_Muhammad_Shahzad.pdf]() Describe what I will do to study for my Ph.D. 3 - 4 years, including Abstract, Introduction, Research Questions, Expected Outcomes, Methodology, Conclusion, Candidate profile, and Project Plan.
-2. [presentation_interview_phd.pdf]() is my presentation file to interview including: My Education, My working experience, My project, How can i help you?, looking for scholarship.
+1. [research_proposal_Muhammad_Shahzad.pdf](https://github.com/micsupasun/university_of_reading/blob/main/research_proposal/research_proposal_Muhammad_Shahzad.pdf) Describe what I will do to study for my Ph.D. 3 - 4 years, including Abstract, Introduction, Research Questions, Expected Outcomes, Methodology, Conclusion, Candidate profile, and Project Plan.
+2. [presentation_interview_phd.pdf](https://github.com/micsupasun/university_of_reading/blob/main/research_proposal/presentation_interview_phd.pdf) is my presentation file to interview including: My Education, My working experience, My project, How can i help you?, looking for scholarship.
 
 # Result
 I got a scholarship from the University of Reading!!!.
